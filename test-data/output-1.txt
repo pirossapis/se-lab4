@@ -1,0 +1,9 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- both
+SUCCESS  # <- pr
+SUCCESS  # <- sc
+SUCCESS  # <- pr
+SUCCESS  # <- pr
+FAIL # <- sc - empty
+FAIL # <- both empty - single
+FAIL # <- both empty - all
