@@ -1,0 +1,9 @@
+GT4500,4,0,2,0 #pr:4, sc:2
+TORPEDO,ALL #both
+TORPEDO,SINGLE #primary
+TORPEDO,SINGLE #secondary
+TORPEDO,SINGLE #primary
+TORPEDO,SINGLE #emptysc->pr
+TORPEDO,SINGLE #empty->sc
+TORPEDO,SINGLE #emptyAll
+TORPEDO,ALL #emptyAll
